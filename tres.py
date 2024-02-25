@@ -15,4 +15,5 @@ exponenciacion = num2 **num1
 ecuacion= 3**3 * (13/5 - (2*4))
 print(suma, resta, mult, division, division2, modulo, exponenciacion, ecuacion)
 
+a = 1
 
