@@ -30,3 +30,7 @@ print(valorr)
 valorr = "orlando"
 print(valorr)
 #en consola nos damos cuenta que si cambia el valor de 10 a orlando
+x= [1,2,3,4,5]
+
+for i in x:
+    print(i)
