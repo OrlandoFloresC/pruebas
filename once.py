@@ -8,8 +8,8 @@
 #a = float(input("a = "))
 #b = float(input("b = "))
 
-a = 2
-b = 3
+a = 10
+b = 5
 
 
 resultado = ((3+5*8)<3 and ((-3/2)*4+2<2))or(a>b)
