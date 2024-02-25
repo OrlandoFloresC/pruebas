@@ -1,4 +1,4 @@
-#video #12 rpgramacion ats
+#video #12 programacion ats
 
 #funciones integradas
 
@@ -28,5 +28,5 @@ print (n)
 n = round(5.6) #redondeo, siempre a lo mas cerca
 print (n)
 
-n = len("oralndo") #arroja el numero de acaracteres 
+n = len("Orlando") #arroja el numero de acaracteres 
 print (n)
