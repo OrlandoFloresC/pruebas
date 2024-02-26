@@ -18,3 +18,4 @@ lista =[1,2,3,4,5,6,3,23,6,7,8,9,10]
 print(lista)
 lista = list(set(lista))
 print(lista)
+#este comit solo se agrega porque el nombre estab amal
